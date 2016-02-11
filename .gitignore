@@ -1,1 +1,6 @@
-*.git/
+# ignore all
+*
+# except the following
+!.vimrc
+!.gitignore
+!/spell
